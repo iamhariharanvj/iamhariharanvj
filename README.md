@@ -1,4 +1,4 @@
-<center><h1>### Aloha there! I am Hari 👋</h1></center>
+<center><h1> Aloha there! I am Hari 👋</h1></center>
 
 <!--
 **iamhariharanvj/iamhariharanvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
