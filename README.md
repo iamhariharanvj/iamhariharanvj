@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I would stare at something for 30 mins if the word 'code' is written in it<br><br>
 
   <center>Feel free to contact me on <br>
-  <b>LinkedIn:</b><a href='www.linkedin.com/in/iamhariharanvj'>@iamhariharanvj</a><br>
+  <b>LinkedIn:</b><a href='https://www.linkedin.com/in/iamhariharanvj'>@iamhariharanvj</a><br>
   <b>Twitter:</b><a href='https://twitter.com/_hariharanvj_'>@_hariharanvj_</a><br>
 
   <b>Instagram:</b><a href='https://www.instagram.com/_hariharanvj_/'>@_hariharanvj_</a><br>
