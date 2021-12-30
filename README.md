@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with Neural Networks<br>
 - 💬 Ask me about any programming related stuffs<br>
 - 📫 How to reach me: twitter & instagram: @_hariharanvj_<br>
-- ⚡ Fun fact: I would stare at something for 30 mins if the word 'code' is written in it<br><br>
 
   <center>Feel free to contact me on <br>
   <b>LinkedIn:</b><a href='https://www.linkedin.com/in/iamhariharanvj'>@iamhariharanvj</a><br>
