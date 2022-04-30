@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:-->
 <div>
-- 🔭 I’m currently working on Mask Detection System<br>
+- 🔭 I’m currently working on Cross Platform App development<br>
 - 🌱 I’m currently learning Ai<br>
-- 👯 I’m looking to collaborate on y=Youtube<br>
+- 👯 I’m looking to collaborate on Youtube<br>
 - 🤔 I’m looking for help with Neural Networks<br>
-- 💬 Ask me about any programming related stuffs<br>
+- 💬 Ask me about full stack development<br>
 - 📫 How to reach me: twitter & instagram: @_hariharanvj_<br>
 
   <center>Feel free to contact me on <br>
