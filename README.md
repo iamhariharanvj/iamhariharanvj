@@ -1,29 +1,25 @@
-<center><h1> Aloha there! I am Hari 👋</h1></center>
+### Hi there I am HariHaran V J! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 😃 I am a Software Developer and a Budding Programmer.
+- 🌱 Learning and growing.
+- 🧩 I love to solve problems.
+- 🖥️ I love to develop new things. 
 
-<!--
-**iamhariharanvj/iamhariharanvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:-->
-<div>
-- 🔭 I’m currently working on Cross Platform App development<br>
-- 🌱 I’m currently learning Ai<br>
-- 👯 I’m looking to collaborate on Youtube<br>
-- 🤔 I’m looking for help with Neural Networks<br>
-- 💬 Ask me about full stack development<br>
-- 📫 How to reach me: twitter & instagram: @_hariharanvj_<br>
+## Connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/iamhariharanvj/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/iamhariharanvj/"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
+</p>
 
-  <center>Feel free to contact me on <br>
-  <b>LinkedIn:</b><a href='https://www.linkedin.com/in/iamhariharanvj'>@iamhariharanvj</a><br>
-  <b>Twitter:</b><a href='https://twitter.com/_hariharanvj_'>@_hariharanvj_</a><br>
+<br/>
 
-  <b>Instagram:</b><a href='https://www.instagram.com/_hariharanvj_/'>@_hariharanvj_</a><br>
-    <b>Mail:</b><a href = 'https://mail.google.com/mail/u/0/?fs=1&to=hariharanvj2003@gmail.com&tf=cm'>hariharanvj2003@gmail.com</a>
-    
-
-  
-</div>
-<h3>Recent Projects</h3>
-<ul type='square'>
-  <li><a href = 'https://github.com/iamhariharanvj/Text-to-HandWriting'>Text to Handwriting</li>
-</ul>
-
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamhariharanvj&theme=github_dark" alt=""></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamhariharanvj&theme=github_dark" align="right" alt=""></td>
+  </tr>
+</table>
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,html,javascript,php,mysql,mongodb,firebase,react,kotlin,linux,flutter,figma,tailwind&perline=8" alt="Skills"></td>
+</p>
